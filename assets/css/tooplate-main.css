@@ -311,6 +311,10 @@ nav a::before {
   background-image: url(../images/contact-bg.jpg);
   background-position: fixed;
 }
+.slides .slide:nth-child(5) {
+  background-image: url(../images/contacts-bg.webp);
+  background-position: fixed;
+}
 
 /* Slide 1 Stlye */
 #slider-wrapper{
